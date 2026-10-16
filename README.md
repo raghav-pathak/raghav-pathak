@@ -9,11 +9,11 @@
 
 ### 💫 About Me
 
-* 🔭 I’m currently working on **[Project Name / Tech Stack]**
-* 🌱 I’m currently learning **[New Framework or Skill]**
+* 🔭 I’m currently working on **[FULL -  STACK DEVELOPMENT and exploring Data analytics ]**
+* 🌱 I’m currently learning **[Power BI , Java]**
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * 💬 Ask me about **Web Development, Python, or Data Structures**
-* 📫 How to reach me: **raghav.pathak@example.com**
+* 📫 How to reach me: **raghavpathak01.work@gmail.com**
 * ⚡ Fun fact: **I turn coffee into code ☕**
 
 ---
