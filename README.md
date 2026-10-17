@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I's Raghav Pathak</h1>
+<h1 align="center">Hi 👋, I'm Raghav Pathak</h1>
 <h3 align="center">A passionate developer crafting code & solving complex problems</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="mailto:raghavpathak01.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/raghav-pathak" target="_blank">
+  <a href="[https://leetcode.com/raghav-pathak](https://leetcode.com/u/raghav9198/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
 </p>
@@ -57,24 +57,15 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raghav-pathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-pathak&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-pathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/raghav-pathak8888" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/raghav__pathak__?obrf=MWpqNWxxdmhkNGQy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 </p>
 </p>
